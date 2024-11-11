@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.gd": "gdscript"  // Associa arquivos .gd ao GDScript
+    },
+    "godotTools.editorPath.godot4": "/Applications/Godot.app"
+}
